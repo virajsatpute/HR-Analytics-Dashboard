@@ -13,6 +13,8 @@ Interactive Dashboards: Designed user-friendly dashboards to support strategic d
 
 ## Tools Used -
 Power BI
+![Screenshot 2024-12-20 111723](https://github.com/user-attachments/assets/f521406f-4806-47be-90ad-74898a9843c0)
+
 
 Tableau
 
