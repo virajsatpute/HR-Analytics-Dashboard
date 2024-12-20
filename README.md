@@ -17,6 +17,8 @@ Power BI
 
 
 Tableau
+![Screenshot 2024-12-20 112231](https://github.com/user-attachments/assets/d91f5a9c-9aac-42d3-81e4-043f26bae054)
+
 
 Excel (for data preprocessing)
 
